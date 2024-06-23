@@ -1,0 +1,7 @@
+C:\Users\dmitryby\source\repos\Tasks Part 1\Tasks Part 1\bin\Debug\Tasks Part 1.exe.config
+C:\Users\dmitryby\source\repos\Tasks Part 1\Tasks Part 1\bin\Debug\Tasks Part 1.exe
+C:\Users\dmitryby\source\repos\Tasks Part 1\Tasks Part 1\bin\Debug\Tasks Part 1.pdb
+C:\Users\dmitryby\source\repos\Tasks Part 1\Tasks Part 1\obj\Debug\Tasks Part 1.csproj.AssemblyReference.cache
+C:\Users\dmitryby\source\repos\Tasks Part 1\Tasks Part 1\obj\Debug\Tasks Part 1.csproj.CoreCompileInputs.cache
+C:\Users\dmitryby\source\repos\Tasks Part 1\Tasks Part 1\obj\Debug\Tasks Part 1.exe
+C:\Users\dmitryby\source\repos\Tasks Part 1\Tasks Part 1\obj\Debug\Tasks Part 1.pdb
