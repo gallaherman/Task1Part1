@@ -1,0 +1,7 @@
+C:\Users\dmitryby\source\repos\Mentoring_1_Tasks\Tasks Part 2\bin\Debug\Tasks Part 2.exe.config
+C:\Users\dmitryby\source\repos\Mentoring_1_Tasks\Tasks Part 2\bin\Debug\Tasks Part 2.exe
+C:\Users\dmitryby\source\repos\Mentoring_1_Tasks\Tasks Part 2\bin\Debug\Tasks Part 2.pdb
+C:\Users\dmitryby\source\repos\Mentoring_1_Tasks\Tasks Part 2\obj\Debug\Tasks Part 2.csproj.AssemblyReference.cache
+C:\Users\dmitryby\source\repos\Mentoring_1_Tasks\Tasks Part 2\obj\Debug\Tasks Part 2.csproj.CoreCompileInputs.cache
+C:\Users\dmitryby\source\repos\Mentoring_1_Tasks\Tasks Part 2\obj\Debug\Tasks Part 2.exe
+C:\Users\dmitryby\source\repos\Mentoring_1_Tasks\Tasks Part 2\obj\Debug\Tasks Part 2.pdb
